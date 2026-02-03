@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Jassem Manita</h1>
-  <h3>Applied Math & Data Science Student | ML Engineer & Systems Developer</h3>
+  <h3>Applied Math & Data Science Student | ML & Systems Development</h3>
   <p>Interested in complex low-level systems and data.</p>
   <p>
     <a href="https://linkedin.com/in/jassem-manita-2002jm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
