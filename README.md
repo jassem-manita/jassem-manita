@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       </p>
     </td>
-    <td align="center" width="50%">
+    <!-- <td align="center" width="50%">
       <a href="https://github.com/oracles-team/origins">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=oracles-team&repo=origins&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&show_owner=true" />
       </a>
@@ -30,7 +30,7 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplusa&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell"/>
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
