@@ -15,7 +15,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/jassem-manita/midna">
+      <a href="https://github.com/viraxi/midna">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jassem-manita&repo=midna&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&show_owner=true" />
       </a>
       <p>
