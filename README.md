@@ -1,10 +1,12 @@
 <div align="center">
   <h1>Jassem Manita</h1>
   <h3>Applied Math & Data Science Student | ML & Systems Development</h3>
+    <img src="https://hit.yhype.me/github/profile?account_id=121335991" alt="Profile views" />
   <p>Interested in complex low-level systems and data.</p>
   <p>
     <a href="https://github.com/jassem-manita"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:jasemmanita00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+    
   </p>
 </div>
 
