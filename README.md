@@ -20,4 +20,4 @@
   </tr>
 </table>
 
-## 🤝 Feel free to reach out — I'm always open to collaboration, ideas, and opportunities
+## Feel free to reach out
